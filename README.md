@@ -1,4 +1,4 @@
-# Ejercicio-6---Roger-Cruz
+# Ejercicio-6--Roger-Cruz
 
     Estos cuatro ejercicios consisten en textos de JavaScript
     Ejercicio 1= Numero Máximo y Numero mínimo y valor especial.
